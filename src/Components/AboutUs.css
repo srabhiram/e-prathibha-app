@@ -1,0 +1,16 @@
+* {
+    scroll-behavior: smooth;
+}
+
+.nav-link {
+    color: black !important;
+    font-weight: bolder;
+}
+
+.nav-link:hover {
+    color: red !important;
+}
+
+.nav-link>p {
+    font-weight: bold;
+}

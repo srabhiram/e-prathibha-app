@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
+@import '~@fortawesome/fontawesome-free/css/all.css';
+
+.logo{
+    font-family: 'Silkscreen', sans-serif;
+    opacity: 1 !important;
+    color: red !important;
+    font-weight: bold;
+
+}
+.logo:hover{
+    color: black !important;
+    
+}
+
+* {
+    scroll-behavior: smooth;
+
+}
+
+.content {
+    position: sticky;
+    width: 100%;
+    top: 0;
+    background-color: white;
+    opacity: 0.8;
+    z-index: 9999;
+
+}
+.content
+
+.nav-link {
+    color: black !important;
+    opacity: 1 !important;
+
+
+}
+
+.nav-link>p:hover {
+    color: red !important;
+}
+.nav-link2{
+    color: black !important;
+    text-decoration: none;
+}
+.nav-link2:hover{
+    color: red !important;
+    font-weight: 600;
+}
+
+.nav-link>p {
+    font-weight: bold;
+}
+
+.nav-link[title] {
+    font-weight: bold;
+}
+
+/* 
+login page */
+

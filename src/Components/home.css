@@ -1,0 +1,9 @@
+.section {
+    height: 600px;
+
+}
+
+::selection {
+    color: white;
+    background: red;
+}

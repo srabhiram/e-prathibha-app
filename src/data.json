@@ -1,0 +1,524 @@
+{
+  "status": 200,
+  "data": {
+      "pending": {
+          "Exam": {
+              "id": "24",
+              "name": "2018"
+          }
+      },
+      "exams": [
+          {
+              "Old question papers UPSC Civils (Pre)": [
+                  {
+                      "Package": {
+                          "id": "7",
+                          "name": "Free"
+                      },
+                      "Exam": {
+                          "id": "24",
+                          "type": "Exam",
+                          "name": "2018",
+                          "start_date": "2020-05-13 00:00:00",
+                          "end_date": "2025-01-01 00:00:00",
+                          "paid_exam": "0",
+                          "amount": null,
+                          "attempt_count": "0",
+                          "expiry": "0",
+                          "cate_id": "2",
+                          "duration": "120",
+                          "attempt": "1",
+                          "attempt_order": "2",
+                          "fexpiry_date": null
+                      },
+                      "years": {
+                          "exam_year": "2018"
+                      },
+                      "cate": {
+                          "id": "2",
+                          "name": "3 Years Old"
+                      }
+                  },
+                  {
+                      "Package": {
+                          "id": "7",
+                          "name": "Free"
+                      },
+                      "Exam": {
+                          "id": "25",
+                          "type": "Exam",
+                          "name": "2019",
+                          "start_date": "2020-05-15 00:00:00",
+                          "end_date": "2025-01-01 00:00:00",
+                          "paid_exam": "0",
+                          "amount": null,
+                          "attempt_count": "0",
+                          "expiry": "0",
+                          "cate_id": "2",
+                          "duration": "120",
+                          "attempt": "0",
+                          "attempt_order": "2",
+                          "fexpiry_date": null
+                      },
+                      "years": {
+                          "exam_year": "2019"
+                      },
+                      "cate": {
+                          "id": "2",
+                          "name": "3 Years Old"
+                      }
+                  },
+                  {
+                      "Package": {
+                          "id": "7",
+                          "name": "Free"
+                      },
+                      "Exam": {
+                          "id": "1480",
+                          "type": "Exam",
+                          "name": "2020",
+                          "start_date": "2021-02-03 00:00:00",
+                          "end_date": "2025-01-01 00:00:00",
+                          "paid_exam": "0",
+                          "amount": null,
+                          "attempt_count": "0",
+                          "expiry": "0",
+                          "cate_id": "2",
+                          "duration": "120",
+                          "attempt": "0",
+                          "attempt_order": "2",
+                          "fexpiry_date": null
+                      },
+                      "years": {
+                          "exam_year": "2020"
+                      },
+                      "cate": {
+                          "id": "2",
+                          "name": "3 Years Old"
+                      }
+                  }
+              ],
+              "total": 3,
+              "attempted": 1
+          },
+          {
+              "Limited UPSC other than Civils": [
+                  {
+                      "Package": {
+                          "id": "7",
+                          "name": "Free"
+                      },
+                      "Exam": {
+                          "id": "1535",
+                          "type": "Exam",
+                          "name": "CAPF 2020",
+                          "start_date": "2021-03-09 00:00:00",
+                          "end_date": "2025-01-01 00:00:00",
+                          "paid_exam": "0",
+                          "amount": null,
+                          "attempt_count": "0",
+                          "expiry": "0",
+                          "cate_id": "3",
+                          "duration": "120",
+                          "attempt": "0",
+                          "attempt_order": "2",
+                          "fexpiry_date": null
+                      },
+                      "years": {
+                          "exam_year": "CAPF_2020"
+                      },
+                      "cate": {
+                          "id": "3",
+                          "name": "Limited UPSC"
+                      }
+                  },
+                  {
+                      "Package": {
+                          "id": "7",
+                          "name": "Free"
+                      },
+                      "Exam": {
+                          "id": "1536",
+                          "type": "Exam",
+                          "name": "CDS1_2020",
+                          "start_date": "2021-03-09 00:00:00",
+                          "end_date": "2025-01-01 00:00:00",
+                          "paid_exam": "0",
+                          "amount": null,
+                          "attempt_count": "0",
+                          "expiry": "0",
+                          "cate_id": "3",
+                          "duration": "120",
+                          "attempt": "0",
+                          "attempt_order": "2",
+                          "fexpiry_date": null
+                      },
+                      "years": {
+                          "exam_year": "CDS1_2020"
+                      },
+                      "cate": {
+                          "id": "3",
+                          "name": "Limited UPSC"
+                      }
+                  },
+                  {
+                      "Package": {
+                          "id": "7",
+                          "name": "Free"
+                      },
+                      "Exam": {
+                          "id": "1550",
+                          "type": "Exam",
+                          "name": "CDS1_2021",
+                          "start_date": "2021-03-11 00:00:00",
+                          "end_date": "2025-01-01 00:00:00",
+                          "paid_exam": "0",
+                          "amount": null,
+                          "attempt_count": "0",
+                          "expiry": "0",
+                          "cate_id": "3",
+                          "duration": "120",
+                          "attempt": "0",
+                          "attempt_order": "2",
+                          "fexpiry_date": null
+                      },
+                      "years": {
+                          "exam_year": "CDS_2021"
+                      },
+                      "cate": {
+                          "id": "3",
+                          "name": "Limited UPSC"
+                      }
+                  },
+                  {
+                      "Package": {
+                          "id": "7",
+                          "name": "Free"
+                      },
+                      "Exam": {
+                          "id": "1537",
+                          "type": "Exam",
+                          "name": "CDS2_2020",
+                          "start_date": "2021-03-09 00:00:00",
+                          "end_date": "2025-01-01 00:00:00",
+                          "paid_exam": "0",
+                          "amount": null,
+                          "attempt_count": "0",
+                          "expiry": "0",
+                          "cate_id": "3",
+                          "duration": "120",
+                          "attempt": "0",
+                          "attempt_order": "2",
+                          "fexpiry_date": null
+                      },
+                      "years": {
+                          "exam_year": "CDS2_2020"
+                      },
+                      "cate": {
+                          "id": "3",
+                          "name": "Limited UPSC"
+                      }
+                  },
+                  {
+                      "Package": {
+                          "id": "7",
+                          "name": "Free"
+                      },
+                      "Exam": {
+                          "id": "1504",
+                          "type": "Exam",
+                          "name": "CISF_2020",
+                          "start_date": "2021-03-04 00:00:00",
+                          "end_date": "2025-01-01 00:00:00",
+                          "paid_exam": "0",
+                          "amount": null,
+                          "attempt_count": "0",
+                          "expiry": "0",
+                          "cate_id": "3",
+                          "duration": "120",
+                          "attempt": "0",
+                          "attempt_order": "2",
+                          "fexpiry_date": null
+                      },
+                      "years": {
+                          "exam_year": "CISF"
+                      },
+                      "cate": {
+                          "id": "3",
+                          "name": "Limited UPSC"
+                      }
+                  },
+                  {
+                      "Package": {
+                          "id": "7",
+                          "name": "Free"
+                      },
+                      "Exam": {
+                          "id": "1502",
+                          "type": "Exam",
+                          "name": "Engineering Services_2020",
+                          "start_date": "2021-03-04 00:00:00",
+                          "end_date": "2025-01-01 00:00:00",
+                          "paid_exam": "0",
+                          "amount": null,
+                          "attempt_count": "0",
+                          "expiry": "0",
+                          "cate_id": "3",
+                          "duration": "120",
+                          "attempt": "0",
+                          "attempt_order": "2",
+                          "fexpiry_date": null
+                      },
+                      "years": {
+                          "exam_year": "Engineering Services "
+                      },
+                      "cate": {
+                          "id": "3",
+                          "name": "Limited UPSC"
+                      }
+                  },
+                  {
+                      "Package": {
+                          "id": "7",
+                          "name": "Free"
+                      },
+                      "Exam": {
+                          "id": "1551",
+                          "type": "Exam",
+                          "name": "Geo_Scientist_2020",
+                          "start_date": "2021-03-11 00:00:00",
+                          "end_date": "2025-01-01 00:00:00",
+                          "paid_exam": "0",
+                          "amount": null,
+                          "attempt_count": "0",
+                          "expiry": "0",
+                          "cate_id": "3",
+                          "duration": "144",
+                          "attempt": "0",
+                          "attempt_order": "2",
+                          "fexpiry_date": null
+                      },
+                      "years": {
+                          "exam_year": "Geo_Scientist_2020"
+                      },
+                      "cate": {
+                          "id": "3",
+                          "name": "Limited UPSC"
+                      }
+                  },
+                  {
+                      "Package": {
+                          "id": "7",
+                          "name": "Free"
+                      },
+                      "Exam": {
+                          "id": "1506",
+                          "type": "Exam",
+                          "name": "NDA_2020",
+                          "start_date": "2021-03-04 00:00:00",
+                          "end_date": "2025-01-01 00:00:00",
+                          "paid_exam": "0",
+                          "amount": null,
+                          "attempt_count": "0",
+                          "expiry": "0",
+                          "cate_id": "3",
+                          "duration": "120",
+                          "attempt": "0",
+                          "attempt_order": "2",
+                          "fexpiry_date": null
+                      },
+                      "years": {
+                          "exam_year": "NDA"
+                      },
+                      "cate": {
+                          "id": "3",
+                          "name": "Limited UPSC"
+                      }
+                  },
+                  {
+                      "Package": {
+                          "id": "7",
+                          "name": "Free"
+                      },
+                      "Exam": {
+                          "id": "1541",
+                          "type": "Exam",
+                          "name": "SO_2014",
+                          "start_date": "2021-03-09 00:00:00",
+                          "end_date": "2025-01-01 00:00:00",
+                          "paid_exam": "0",
+                          "amount": null,
+                          "attempt_count": "0",
+                          "expiry": "0",
+                          "cate_id": "3",
+                          "duration": "120",
+                          "attempt": "0",
+                          "attempt_order": "2",
+                          "fexpiry_date": null
+                      },
+                      "years": {
+                          "exam_year": "SO"
+                      },
+                      "cate": {
+                          "id": "3",
+                          "name": "Limited UPSC"
+                      }
+                  },
+                  {
+                      "Package": {
+                          "id": "7",
+                          "name": "Free"
+                      },
+                      "Exam": {
+                          "id": "1547",
+                          "type": "Exam",
+                          "name": "SO_Aggregated_Polity_2015",
+                          "start_date": "2021-03-11 00:00:00",
+                          "end_date": "2025-01-01 00:00:00",
+                          "paid_exam": "0",
+                          "amount": null,
+                          "attempt_count": "0",
+                          "expiry": "0",
+                          "cate_id": "3",
+                          "duration": "80",
+                          "attempt": "0",
+                          "attempt_order": "2",
+                          "fexpiry_date": null
+                      },
+                      "years": {
+                          "exam_year": "SO_Integrated_Polity_2015"
+                      },
+                      "cate": {
+                          "id": "3",
+                          "name": "Limited UPSC"
+                      }
+                  }
+              ],
+              "total": 10,
+              "attempted": 0
+          },
+          {
+              "Limited NCERT": [
+                  {
+                      "Package": {
+                          "id": "7",
+                          "name": "Free"
+                      },
+                      "Exam": {
+                          "id": "1465",
+                          "type": "Exam",
+                          "name": "limited NCERT1",
+                          "start_date": "2021-02-03 00:00:00",
+                          "end_date": "2025-01-01 00:00:00",
+                          "paid_exam": "0",
+                          "amount": null,
+                          "attempt_count": "0",
+                          "expiry": "0",
+                          "cate_id": "5",
+                          "duration": "120",
+                          "attempt": "0",
+                          "attempt_order": "2",
+                          "fexpiry_date": null
+                      },
+                      "years": {
+                          "exam_year": "limited_NCERT1"
+                      },
+                      "cate": {
+                          "id": "5",
+                          "name": "Limited NCERT"
+                      }
+                  },
+                  {
+                      "Package": {
+                          "id": "7",
+                          "name": "Free"
+                      },
+                      "Exam": {
+                          "id": "1466",
+                          "type": "Exam",
+                          "name": "limited NCERT2",
+                          "start_date": "2021-02-03 00:00:00",
+                          "end_date": "2025-01-01 00:00:00",
+                          "paid_exam": "0",
+                          "amount": null,
+                          "attempt_count": "0",
+                          "expiry": "0",
+                          "cate_id": "5",
+                          "duration": "120",
+                          "attempt": "0",
+                          "attempt_order": "2",
+                          "fexpiry_date": null
+                      },
+                      "years": {
+                          "exam_year": "limited_NCERT2"
+                      },
+                      "cate": {
+                          "id": "5",
+                          "name": "Limited NCERT"
+                      }
+                  },
+                  {
+                      "Package": {
+                          "id": "7",
+                          "name": "Free"
+                      },
+                      "Exam": {
+                          "id": "1468",
+                          "type": "Exam",
+                          "name": "limited NCERT3",
+                          "start_date": "2021-02-03 00:00:00",
+                          "end_date": "2025-01-01 00:00:00",
+                          "paid_exam": "0",
+                          "amount": null,
+                          "attempt_count": "0",
+                          "expiry": "0",
+                          "cate_id": "5",
+                          "duration": "120",
+                          "attempt": "0",
+                          "attempt_order": "2",
+                          "fexpiry_date": null
+                      },
+                      "years": {
+                          "exam_year": "limited_NCERT3"
+                      },
+                      "cate": {
+                          "id": "5",
+                          "name": "Limited NCERT"
+                      }
+                  },
+                  {
+                      "Package": {
+                          "id": "7",
+                          "name": "Free"
+                      },
+                      "Exam": {
+                          "id": "1474",
+                          "type": "Exam",
+                          "name": "limited NCERT4",
+                          "start_date": "2021-02-03 00:00:00",
+                          "end_date": "2025-01-01 00:00:00",
+                          "paid_exam": "0",
+                          "amount": null,
+                          "attempt_count": "0",
+                          "expiry": "0",
+                          "cate_id": "5",
+                          "duration": "120",
+                          "attempt": "0",
+                          "attempt_order": "2",
+                          "fexpiry_date": null
+                      },
+                      "years": {
+                          "exam_year": "limited_NCERT4"
+                      },
+                      "cate": {
+                          "id": "5",
+                          "name": "Limited NCERT"
+                      }
+                  }
+              ],
+              "total": 4,
+              "attempted": 0
+          }
+      ]
+  }
+}
